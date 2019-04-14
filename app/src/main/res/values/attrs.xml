@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomBottomNavigationView">
+        <attr name="mFabSize" format="dimension"/>
+        <attr name="mFabColor" format="color"/>
+        <attr name="mBgColor" format="color"/>
+    </declare-styleable>
+
+</resources>
